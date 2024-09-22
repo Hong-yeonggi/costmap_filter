@@ -1,4 +1,4 @@
-image: map_1.pgm
+image: map_1_keepout.pgm
 mode: trinary
 resolution: 0.05
 origin: [-3.7, -3.74, 0]
